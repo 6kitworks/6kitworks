@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @6kitworks
-- 👀 I’m interested in Ret_teaming, Ethical_hacking, Penetration_Testing
-- 🌱 I’m currently learning 
+- 👀 I’m interested in Red_teaming, Ethical_hacking, Penetration_Testing
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Red_teaming tools 
 - 📫 How to reach me ... @Ayomikun_10 on twitter
 
